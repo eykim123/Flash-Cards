@@ -63,5 +63,5 @@ test_kind = input(
     'If you would like to practice with given terms, type "terms". If you would like to practice with given definitions, type "definitions".'
 )
 
-#call function with the type of test as the parameter
+#call function with the type of test as the parameter hey
 play_cards(test_kind)
